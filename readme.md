@@ -10,3 +10,12 @@ to-do:
 * scoring, session and overall
 * tutorials
 * segregation of math by subject, topic
+* graphical user interface
+* graphs of some problems when applicable
+
+problems to add
+k = 0 to 99 sum 2(3)^k
+
+topics
+* algebra 2
+  * divide polynomials with remainders
