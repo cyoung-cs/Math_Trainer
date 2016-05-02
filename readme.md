@@ -1,4 +1,7 @@
-vrsion 0.0.1:
+version 0.0.12:
+added quadratics
+
+version 0.0.1:
 added two problems of geometric sequences from khanacademy.
 very simple and naive checking of solutions
 no other functions
